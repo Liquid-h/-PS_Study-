@@ -17,7 +17,7 @@ jobs:
         run: |
           shopt -s nullglob
           for d in 0* 1*; do
-            [ -d "LeetCode/$d" ] && rm -rf "LeetCode/$d"
+            [ -d "LeetCode/$d" ] && rm -rf "LeetCode/$d" || true
           done
 
       - name: Move LeetCode Folders
