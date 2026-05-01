@@ -29,7 +29,10 @@ jobs:
           done
 
       - name: Pull latest remote
-        run: git pull --rebase
+        run: |
+          git stash                                
+          git pull --rebase               
+          git stash pop || echo "No local changes to reapply" 
 
       - name: Commit changes
         run: |
