@@ -8,6 +8,7 @@ and LeetHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Liquid-h/-PS_Study-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Liquid-h/-PS_Study-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Liquid-h/-PS_Study-/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Liquid-h/-PS_Study-/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Liquid-h/-PS_Study-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -39,4 +40,12 @@ and LeetHub
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Liquid-h/-PS_Study-/tree/master/1929-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Liquid-h/-PS_Study-/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Liquid-h/-PS_Study-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
