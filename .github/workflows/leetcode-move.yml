@@ -12,6 +12,15 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 
+
+  
+      - name: Pull latest remote
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull origin main --rebase
 
       - name: Remove existing folders with same name (pre-cleanup)
         run: |
@@ -19,6 +28,7 @@ jobs:
           for d in 0* 1*; do
             [ -d "LeetCode/$d" ] && rm -rf "LeetCode/$d" || true
           done
+
 
       - name: Move LeetCode Folders
         run: |
@@ -28,19 +38,18 @@ jobs:
             [ -d "$d" ] && mv "$d" LeetCode/
           done
 
-      - name: Pull latest remote
+      - name: Commit and Push changes
         run: |
-          git stash                                
-          git pull --rebase               
-          git stash pop || echo "No local changes to reapply" 
-
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
           git add LeetCode
           git add -u
-          git commit -m "자동 정리: LeetCode 문제 폴더 이동" || echo "No changes to commit"
-
-      - name: Push
-        run: git push
+          
+       
+          if ! git diff --staged --quiet; then
+            git commit -m "자동 정리: LeetCode 문제 폴더 이동"
+            
+          
+            git pull origin main --rebase
+            git push
+          else
+            echo "No changes to commit, skipping push."
+          fi
