@@ -27,6 +27,7 @@ and LeetHub
 | ------- |
 | [0009-palindrome-number](https://github.com/Liquid-h/-PS_Study-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Liquid-h/-PS_Study-/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/Liquid-h/-PS_Study-/tree/master/0231-power-of-two) |
 | [2485-find-the-pivot-integer](https://github.com/Liquid-h/-PS_Study-/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
 |  |
@@ -53,4 +54,12 @@ and LeetHub
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Liquid-h/-PS_Study-/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Liquid-h/-PS_Study-/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Liquid-h/-PS_Study-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
