@@ -9,6 +9,7 @@ and LeetHub
 | ------- |
 | [0001-two-sum](https://github.com/Liquid-h/-PS_Study-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Liquid-h/-PS_Study-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Liquid-h/-PS_Study-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Liquid-h/-PS_Study-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Liquid-h/-PS_Study-/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Liquid-h/-PS_Study-/tree/master/0645-set-mismatch) |
@@ -36,6 +37,7 @@ and LeetHub
 | ------- |
 | [0009-palindrome-number](https://github.com/Liquid-h/-PS_Study-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Liquid-h/-PS_Study-/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Liquid-h/-PS_Study-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Liquid-h/-PS_Study-/tree/master/0231-power-of-two) |
 | [2485-find-the-pivot-integer](https://github.com/Liquid-h/-PS_Study-/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
@@ -64,6 +66,7 @@ and LeetHub
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Liquid-h/-PS_Study-/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Liquid-h/-PS_Study-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Liquid-h/-PS_Study-/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bit Manipulation
 |  |
