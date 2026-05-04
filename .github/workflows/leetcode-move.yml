@@ -6,6 +6,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: leetcode-auto-organize
+  cancel-in-progress: false
+
 jobs:
   move-and-commit:
     runs-on: ubuntu-latest
@@ -15,7 +19,6 @@ jobs:
         with:
           fetch-depth: 0 
 
-  
       - name: Pull latest remote
         run: |
           git config --local user.email "action@github.com"
@@ -28,7 +31,6 @@ jobs:
           for d in 0* 1*; do
             [ -d "LeetCode/$d" ] && rm -rf "LeetCode/$d" || true
           done
-
 
       - name: Move LeetCode Folders
         run: |
@@ -43,13 +45,19 @@ jobs:
           git add LeetCode
           git add -u
           
-       
           if ! git diff --staged --quiet; then
             git commit -m "자동 정리: LeetCode 문제 폴더 이동"
             
-          
-            git pull origin main --rebase
-            git push
+            for i in 1 2 3 4 5; do
+              git pull origin main --rebase
+              if git push; then
+                echo "푸시 성공!"
+                break
+              else
+                echo "3초 후 재시도합니다... ($i/5)"
+                sleep 3
+              fi
+            done
           else
             echo "No changes to commit, skipping push."
           fi
