@@ -10,6 +10,7 @@ and LeetHub
 | [0001-two-sum](https://github.com/Liquid-h/-PS_Study-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Liquid-h/-PS_Study-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Liquid-h/-PS_Study-/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Liquid-h/-PS_Study-/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Liquid-h/-PS_Study-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Liquid-h/-PS_Study-/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Liquid-h/-PS_Study-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -93,4 +94,8 @@ and LeetHub
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Liquid-h/-PS_Study-/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Liquid-h/-PS_Study-/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
