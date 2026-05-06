@@ -17,6 +17,7 @@ and LeetHub
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Liquid-h/-PS_Study-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Liquid-h/-PS_Study-/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Liquid-h/-PS_Study-/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Liquid-h/-PS_Study-/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/Liquid-h/-PS_Study-/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Liquid-h/-PS_Study-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Liquid-h/-PS_Study-/tree/master/1441-build-an-array-with-stack-operations) |
@@ -66,6 +67,7 @@ and LeetHub
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Liquid-h/-PS_Study-/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Liquid-h/-PS_Study-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Liquid-h/-PS_Study-/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -83,6 +85,7 @@ and LeetHub
 | ------- |
 | [0020-valid-parentheses](https://github.com/Liquid-h/-PS_Study-/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Liquid-h/-PS_Study-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/Liquid-h/-PS_Study-/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Liquid-h/-PS_Study-/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bit Manipulation
 |  |
