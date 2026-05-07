@@ -11,6 +11,7 @@ and LeetHub
 | [0004-median-of-two-sorted-arrays](https://github.com/Liquid-h/-PS_Study-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Liquid-h/-PS_Study-/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Liquid-h/-PS_Study-/tree/master/0027-remove-element) |
+| [0074-search-a-2d-matrix](https://github.com/Liquid-h/-PS_Study-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Liquid-h/-PS_Study-/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Liquid-h/-PS_Study-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Liquid-h/-PS_Study-/tree/master/0169-majority-element) |
@@ -78,6 +79,7 @@ and LeetHub
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Liquid-h/-PS_Study-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Liquid-h/-PS_Study-/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,4 +135,8 @@ and LeetHub
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Liquid-h/-PS_Study-/tree/master/0912-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Liquid-h/-PS_Study-/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
