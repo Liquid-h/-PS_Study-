@@ -11,6 +11,7 @@ and LeetHub
 | [0004-median-of-two-sorted-arrays](https://github.com/Liquid-h/-PS_Study-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Liquid-h/-PS_Study-/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Liquid-h/-PS_Study-/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Liquid-h/-PS_Study-/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Liquid-h/-PS_Study-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Liquid-h/-PS_Study-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Liquid-h/-PS_Study-/tree/master/0217-contains-duplicate) |
@@ -27,6 +28,7 @@ and LeetHub
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Liquid-h/-PS_Study-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Liquid-h/-PS_Study-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Liquid-h/-PS_Study-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Liquid-h/-PS_Study-/tree/master/0242-valid-anagram) |
@@ -112,6 +114,7 @@ and LeetHub
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Liquid-h/-PS_Study-/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Liquid-h/-PS_Study-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Liquid-h/-PS_Study-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Liquid-h/-PS_Study-/tree/master/0344-reverse-string) |
 ## Heap (Priority Queue)
