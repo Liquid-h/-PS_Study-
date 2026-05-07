@@ -63,6 +63,7 @@ and LeetHub
 | [0013-roman-to-integer](https://github.com/Liquid-h/-PS_Study-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Liquid-h/-PS_Study-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Liquid-h/-PS_Study-/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Liquid-h/-PS_Study-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Liquid-h/-PS_Study-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Liquid-h/-PS_Study-/tree/master/0344-reverse-string) |
 ## Simulation
@@ -111,6 +112,7 @@ and LeetHub
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Liquid-h/-PS_Study-/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Liquid-h/-PS_Study-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Liquid-h/-PS_Study-/tree/master/0344-reverse-string) |
 ## Heap (Priority Queue)
 |  |
