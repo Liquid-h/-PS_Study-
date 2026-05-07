@@ -80,6 +80,7 @@ and LeetHub
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Liquid-h/-PS_Study-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Liquid-h/-PS_Study-/tree/master/0074-search-a-2d-matrix) |
+| [0374-guess-number-higher-or-lower](https://github.com/Liquid-h/-PS_Study-/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,4 +140,8 @@ and LeetHub
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Liquid-h/-PS_Study-/tree/master/0074-search-a-2d-matrix) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Liquid-h/-PS_Study-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
