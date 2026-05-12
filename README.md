@@ -103,6 +103,7 @@ and LeetHub
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Liquid-h/-PS_Study-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Liquid-h/-PS_Study-/tree/master/0231-power-of-two) |
 ## Counting Sort
 |  |
@@ -164,4 +165,8 @@ and LeetHub
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Liquid-h/-PS_Study-/tree/master/0104-maximum-depth-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Liquid-h/-PS_Study-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
