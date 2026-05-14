@@ -20,6 +20,7 @@ and LeetHub
 | [0485-max-consecutive-ones](https://github.com/Liquid-h/-PS_Study-/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Liquid-h/-PS_Study-/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Liquid-h/-PS_Study-/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Liquid-h/-PS_Study-/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Liquid-h/-PS_Study-/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Liquid-h/-PS_Study-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Liquid-h/-PS_Study-/tree/master/1441-build-an-array-with-stack-operations) |
@@ -81,6 +82,7 @@ and LeetHub
 | [0004-median-of-two-sorted-arrays](https://github.com/Liquid-h/-PS_Study-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Liquid-h/-PS_Study-/tree/master/0074-search-a-2d-matrix) |
 | [0374-guess-number-higher-or-lower](https://github.com/Liquid-h/-PS_Study-/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/Liquid-h/-PS_Study-/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
