@@ -1,6 +1,6 @@
 # -PS_Study-
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
-and LeetHub
+and LeetHub and others
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
