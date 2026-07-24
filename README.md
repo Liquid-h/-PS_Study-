@@ -57,6 +57,7 @@ and LeetHub and others
 | [0013-roman-to-integer](https://github.com/Liquid-h/-PS_Study-/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Liquid-h/-PS_Study-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Liquid-h/-PS_Study-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Liquid-h/-PS_Study-/tree/master/0326-power-of-three) |
 | [2485-find-the-pivot-integer](https://github.com/Liquid-h/-PS_Study-/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
 |  |
@@ -109,6 +110,7 @@ and LeetHub and others
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Liquid-h/-PS_Study-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Liquid-h/-PS_Study-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Liquid-h/-PS_Study-/tree/master/0326-power-of-three) |
 ## Counting Sort
 |  |
 | ------- |
