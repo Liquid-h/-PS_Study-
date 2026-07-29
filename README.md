@@ -17,6 +17,7 @@ and LeetHub and others
 | [0150-evaluate-reverse-polish-notation](https://github.com/Liquid-h/-PS_Study-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Liquid-h/-PS_Study-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Liquid-h/-PS_Study-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Liquid-h/-PS_Study-/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Liquid-h/-PS_Study-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Liquid-h/-PS_Study-/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Liquid-h/-PS_Study-/tree/master/0645-set-mismatch) |
@@ -46,6 +47,7 @@ and LeetHub and others
 | [0013-roman-to-integer](https://github.com/Liquid-h/-PS_Study-/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Liquid-h/-PS_Study-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Liquid-h/-PS_Study-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Liquid-h/-PS_Study-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Liquid-h/-PS_Study-/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Liquid-h/-PS_Study-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Liquid-h/-PS_Study-/tree/master/0645-set-mismatch) |
@@ -176,4 +178,8 @@ and LeetHub and others
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Liquid-h/-PS_Study-/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Liquid-h/-PS_Study-/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
