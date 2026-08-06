@@ -61,6 +61,7 @@ and LeetHub and others
 | [0231-power-of-two](https://github.com/Liquid-h/-PS_Study-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Liquid-h/-PS_Study-/tree/master/0326-power-of-three) |
 | [2485-find-the-pivot-integer](https://github.com/Liquid-h/-PS_Study-/tree/master/2485-find-the-pivot-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Liquid-h/-PS_Study-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -182,4 +183,8 @@ and LeetHub and others
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Liquid-h/-PS_Study-/tree/master/0219-contains-duplicate-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Liquid-h/-PS_Study-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
